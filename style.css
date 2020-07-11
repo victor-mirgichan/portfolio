@@ -1,4 +1,16 @@
 .nav-wrapper{
     display: flex;
     justify-content: space-between;
+    padding: 38px;
+}
+.left-side{
+    display:flex
+}
+.nav-wrapper > .left-side > div {
+    margin-right: 30px;
+    font-size: 0.9em;
+    text-transform: uppercase;
+}
+.navlink-wrapper {
+    height: 25px;
 }
