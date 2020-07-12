@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: lightseagreen;
 }
 .nav-wrapper{
     display: flex;
@@ -16,4 +16,9 @@ body {
 }
 .navlink-wrapper {
     height: 25px;
+}
+.column {
+    width:400px;
+    float:left;
+    font-family: sans-serif;
 }
