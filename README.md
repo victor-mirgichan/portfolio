@@ -6,4 +6,4 @@
 
 ### A Link to published site [https://github.com/victor-mirgichan/portfolio]
 
-#### licence [https://raw.githubusercontent.com/victor-mirgichan/portfolio/master/LICENCE]
+#### licence [https://raw.githubusercontent.com/victor-mirgichan/portfolio/master/LICENCE
